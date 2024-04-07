@@ -1,4 +1,4 @@
-**👋 Hi there! I'm a Senior Data Analyst based in Germany currently enrolled in my Masters Degree in Business Analytics.**
+**👋 Hi there! I'm a Senior Data Analyst based in Germany currently enrolled in a Masters Degree in Business Analytics.**
 
 ### 👱 About Me
 - 4 years of expertise in the Data Analytics field
