@@ -15,6 +15,7 @@
 - Experimemtation: A/B Testing, Experiment Design, Hypothesis Testing <br>
 - Product Analytics: Mixpanel, Amplitude, Google Firebase Analytics, Segment <br>
 - Core Data Competencies: Data Analysis, Data Visualization, Data Management, Data Warehousing, Data Modeling, Data Cleaning, Data Manipulation
+- Project Management & Other Tools: Notion, JIRA, Linear, Miro
 
 ### ⛑️ Projects
 - Find my favourite projects [here](https://github.com/HasanRizvi17/Hasan-Data-Analytics-Projects)!
